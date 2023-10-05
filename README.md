@@ -1,12 +1,13 @@
 # UnbiasedEstimation_Code
 
 #Python code implementing the algorithm presented in "Unbiased likelihood-based estimation of Wright-Fisher diffusion processes" 
-#by Celia García-Pareja and Fabio Nobile (https://doi.org/10.48550/arXiv.2303.05390)
+by Celia García-Pareja and Fabio Nobile (https://doi.org/10.48550/arXiv.2303.05390)
 
 
 For generating discrete observations from Wright-Fisher one-dimensional diffusion paths with haploid natural selection:
 
--Run the file: DataGen_Estimation.py:
+-Run the file: DataGen_Estimation.py to:
+
 a) Generate discrete observations from a Wright-Fisher diffusion path with the desired parameters. (Saved figure: GeneratedPath.eps)
 
 For estimating the selection parameter h from the generated path:
